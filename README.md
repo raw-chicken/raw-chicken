@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @raw-chicken.
+- 👀 I’m interested in intelligence / sysarch.
+- 🌱 I’m currently learning C.
